@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T8ruLMKlZ3s6lLVaNeYaitT7Vcm0oMH0ODplE9u3FCB1xb7uA2bVapF22SU2Uvob/lZLbkm4V19pd/5PS+9NpA==",
+  "success": true,
+  "projectFilePath": "D:\\programming\\Battleships\\Battleships.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kukkkristof\\.nuget\\packages\\pastel\\4.1.0\\pastel.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

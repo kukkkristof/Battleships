@@ -1,0 +1,116 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Pastel/4.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/Pastel.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0/Pastel.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pastel/4.1.0": {
+      "sha512": "2RGTLbvDyhUyZmNIAdyJZkQTr8RJwD/l4vEvFujLRZN2uxJal1AR8STe7rJwrYESO/Waaa20eYhVd4Q3KX+Nxw==",
+      "type": "package",
+      "path": "pastel/4.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "README.md",
+        "icon.png",
+        "lib/net462/Pastel.dll",
+        "lib/net462/Pastel.xml",
+        "lib/net6.0/Pastel.dll",
+        "lib/net6.0/Pastel.xml",
+        "lib/net7.0/Pastel.dll",
+        "lib/net7.0/Pastel.xml",
+        "pastel.4.1.0.nupkg.sha512",
+        "pastel.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Pastel >= 4.1.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\kukkkristof\\.nuget\\packages\\": {},
+    "D:\\Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\programming\\Battleships\\Battleships.csproj",
+      "projectName": "Battleships",
+      "projectPath": "D:\\programming\\Battleships\\Battleships.csproj",
+      "packagesPath": "C:\\Users\\kukkkristof\\.nuget\\packages\\",
+      "outputPath": "D:\\programming\\Battleships\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\kukkkristof\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "Pastel": {
+            "target": "Package",
+            "version": "[4.1.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+D:\programming\Battleships\bin\Debug\net7.0\Battleships.exe
+D:\programming\Battleships\bin\Debug\net7.0\Battleships.deps.json
+D:\programming\Battleships\bin\Debug\net7.0\Battleships.runtimeconfig.json
+D:\programming\Battleships\bin\Debug\net7.0\Battleships.dll
+D:\programming\Battleships\bin\Debug\net7.0\Battleships.pdb
+D:\programming\Battleships\bin\Debug\net7.0\Pastel.dll
+D:\programming\Battleships\obj\Debug\net7.0\Battleships.csproj.AssemblyReference.cache
+D:\programming\Battleships\obj\Debug\net7.0\Battleships.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\Battleships\obj\Debug\net7.0\Battleships.AssemblyInfoInputs.cache
+D:\programming\Battleships\obj\Debug\net7.0\Battleships.AssemblyInfo.cs
+D:\programming\Battleships\obj\Debug\net7.0\Battleships.csproj.CoreCompileInputs.cache
+D:\programming\Battleships\obj\Debug\net7.0\Battleships.csproj.CopyComplete
+D:\programming\Battleships\obj\Debug\net7.0\Battleships.dll
+D:\programming\Battleships\obj\Debug\net7.0\refint\Battleships.dll
+D:\programming\Battleships\obj\Debug\net7.0\Battleships.pdb
+D:\programming\Battleships\obj\Debug\net7.0\Battleships.genruntimeconfig.cache
+D:\programming\Battleships\obj\Debug\net7.0\ref\Battleships.dll
